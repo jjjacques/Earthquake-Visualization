@@ -1,4 +1,4 @@
-Visualizing Data with Leaflet
+<H1> Visualizing Data with Leaflet </H1>
 
 ## Background
 
